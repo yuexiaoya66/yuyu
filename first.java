@@ -1,0 +1,1 @@
+publci static
